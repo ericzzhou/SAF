@@ -199,12 +199,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Apis\CMSController.cs" />
+    <Compile Include="Apis\HubController.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Areas\Api\ApiAreaRegistration.cs" />
-    <Compile Include="Areas\Api\Controllers\DefaultController.cs" />
-    <Compile Include="Areas\Api\Models\Users.cs" />
+    <Compile Include="Data\Model\Eric.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -242,9 +242,7 @@
     </Content>
     <Content Include="Scripts\_references.js" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
