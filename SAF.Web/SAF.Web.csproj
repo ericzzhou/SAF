@@ -212,7 +212,52 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="admin\blank.html" />
+    <Content Include="admin\buttons.html" />
+    <Content Include="admin\calendar.html" />
+    <Content Include="admin\content-slider.html" />
+    <Content Include="admin\css\bootstrap.css" />
+    <Content Include="admin\css\bootstrap.min.css" />
+    <Content Include="admin\css\Site.css" />
+    <Content Include="admin\dropzone.html" />
+    <Content Include="admin\elements.html" />
+    <Content Include="admin\email-confirmation.html" />
+    <Content Include="admin\email-contrast.html" />
+    <Content Include="admin\email-navbar.html" />
+    <Content Include="admin\email-newsletter.html" />
+    <Content Include="admin\email.html" />
+    <Content Include="admin\error-404.html" />
+    <Content Include="admin\error-500.html" />
+    <Content Include="admin\faq.html" />
+    <Content Include="admin\form-elements-2.html" />
+    <Content Include="admin\form-elements.html" />
+    <Content Include="admin\form-wizard.html" />
+    <Content Include="admin\gallery.html" />
+    <Content Include="admin\grid.html" />
+    <Content Include="admin\inbox.html" />
+    <Content Include="admin\index.html" />
+    <Content Include="admin\invoice.html" />
+    <Content Include="admin\jqgrid.html" />
+    <Content Include="admin\jquery-ui.html" />
+    <Content Include="admin\login.html" />
+    <Content Include="admin\mobile-menu-1.html" />
+    <Content Include="admin\mobile-menu-2.html" />
+    <Content Include="admin\mobile-menu-3.html" />
+    <Content Include="admin\nestable-list.html" />
+    <Content Include="admin\pricing.html" />
+    <Content Include="admin\profile.html" />
+    <Content Include="admin\search.html" />
+    <Content Include="admin\tables.html" />
+    <Content Include="admin\timeline.html" />
+    <Content Include="admin\top-menu.html" />
+    <Content Include="admin\treeview.html" />
+    <Content Include="admin\two-menu-1.html" />
+    <Content Include="admin\two-menu-2.html" />
+    <Content Include="admin\typography.html" />
+    <Content Include="admin\widgets.html" />
+    <Content Include="admin\wysiwyg.html" />
     <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
@@ -222,6 +267,11 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="admin\LICENSE.md" />
+    <Content Include="admin\README.md" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -233,6 +283,8 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\vue.js" />
+    <Content Include="Scripts\vue.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -242,7 +294,9 @@
     </Content>
     <Content Include="Scripts\_references.js" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="admin\assets\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
