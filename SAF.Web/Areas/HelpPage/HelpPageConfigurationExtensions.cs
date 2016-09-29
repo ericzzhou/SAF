@@ -16,8 +16,14 @@ using SAF.Web.Areas.HelpPage.Models;
 
 namespace SAF.Web.Areas.HelpPage
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class HelpPageConfigurationExtensions
     {
+        /// <summary>
+        /// 
+        /// </summary>
         private const string ApiModelPrefix = "MS_HelpPageApiModel_";
 
         /// <summary>

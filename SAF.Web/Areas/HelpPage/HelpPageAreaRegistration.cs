@@ -3,8 +3,14 @@ using System.Web.Mvc;
 
 namespace SAF.Web.Areas.HelpPage
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class HelpPageAreaRegistration : AreaRegistration
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public override string AreaName
         {
             get
@@ -12,7 +18,10 @@ namespace SAF.Web.Areas.HelpPage
                 return "HelpPage";
             }
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="context"></param>
         public override void RegisterArea(AreaRegistrationContext context)
         {
             context.MapRoute(
