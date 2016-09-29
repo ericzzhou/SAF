@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAF.TM.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SAF.TM.Api.CommentController">
+            <summary>
+            评论管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.ComplaintController">
+            <summary>
+            投诉管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.ConsultingController">
+            <summary>
+            咨询管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.RefundController">
+            <summary>
+            退款管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.ReportController">
+            <summary>
+            举报管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.ReturnGoodsController">
+            <summary>
+            退货管理
+            </summary>
+        </member>
+        <member name="T:SAF.TM.Api.SOController">
+            <summary>
+            订单管理
+            </summary>
+        </member>
+    </members>
+</doc>

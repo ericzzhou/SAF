@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAF.SM.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SAF.SM.Api.ActivityController">
+            <summary>
+            店铺动态
+            </summary>
+        </member>
+        <member name="T:SAF.SM.Api.CategoryController">
+            <summary>
+            店铺分类
+            </summary>
+        </member>
+        <member name="T:SAF.SM.Api.DomainNameController">
+            <summary>
+            店铺域名
+            </summary>
+        </member>
+        <member name="T:SAF.SM.Api.HelpController">
+            <summary>
+            店铺帮助
+            </summary>
+        </member>
+        <member name="T:SAF.SM.Api.LevelController">
+            <summary>
+            店铺等级
+            </summary>
+        </member>
+        <member name="T:SAF.SM.Api.StoreController">
+            <summary>
+            店铺管理
+            </summary>
+        </member>
+    </members>
+</doc>

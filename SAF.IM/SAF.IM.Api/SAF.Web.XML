@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAF.IM.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SAF.IM.Api.BrandController">
+            <summary>
+            品牌管理
+            </summary>
+        </member>
+        <member name="T:SAF.IM.Api.CategoryController">
+            <summary>
+            分类管理
+            </summary>
+        </member>
+        <member name="T:SAF.IM.Api.GoodsController">
+            <summary>
+            商品管理
+            </summary>
+        </member>
+        <member name="T:SAF.IM.Api.PictureController">
+            <summary>
+            图片管理 图片空间
+            </summary>
+        </member>
+        <member name="T:SAF.IM.Api.SpecificationController">
+            <summary>
+            规格管理
+            </summary>
+        </member>
+        <member name="T:SAF.IM.Api.TypeController">
+            <summary>
+            类型管理
+            </summary>
+        </member>
+    </members>
+</doc>

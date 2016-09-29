@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAF.CMS.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SAF.CMS.Api.ADController">
+            <summary>
+            广告管理
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.ArticleController">
+            <summary>
+            文章管理
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.CategoryController">
+            <summary>
+            文章分类
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.CommentController">
+            <summary>
+            评论管理
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.FriendLinkController">
+            <summary>
+            友情链接管理
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.NavigationController">
+            <summary>
+            页面导航
+            </summary>
+        </member>
+        <member name="T:SAF.CMS.Api.TagController">
+            <summary>
+            标签管理
+            </summary>
+        </member>
+        <member name="M:SAF.CMS.Api.TagController.Add">
+            <summary>
+            添加标签
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
