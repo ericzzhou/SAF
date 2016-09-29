@@ -632,5 +632,35 @@
             标签组
             </summary>
         </member>
+        <member name="T:SAF.Web.Startup">
+            <summary>
+            
+            </summary>
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SAF.Web.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="P:SAF.Web.Startup.OAuthOptions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SAF.Web.Startup.PublicClientId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SAF.Web.Startup.ConfigureAuth(Owin.IAppBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+        </member>
     </members>
 </doc>
