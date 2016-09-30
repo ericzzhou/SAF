@@ -211,6 +211,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\SAF.Core\SAF.Core.csproj">
+      <Project>{ddff8a04-a9ef-4843-b0cf-99d47d98d360}</Project>
+      <Name>SAF.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SAF.MM.Model\SAF.MM.Model.csproj">
       <Project>{F5B45D0B-511C-4545-A747-C7A09DA433B9}</Project>
       <Name>SAF.MM.Model</Name>
