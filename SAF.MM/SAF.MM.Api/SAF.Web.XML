@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SAF.MM.Api</name>
+    </assembly>
+    <members>
+        <member name="T:SAF.MM.Api.AdminController">
+            <summary>
+            系统用户管理
+            </summary>
+        </member>
+        <member name="M:SAF.MM.Api.AdminController.Login(SAF.MM.Model.Admin.LoginModel)">
+            <summary>
+            系统用户登录
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SAF.MM.Api.ExppointsController">
+            <summary>
+            经验值管理
+            </summary>
+        </member>
+        <member name="T:SAF.MM.Api.LevelController">
+            <summary>
+            会员级别
+            </summary>
+        </member>
+        <member name="T:SAF.MM.Api.NoticeController">
+            <summary>
+            会员通知
+            </summary>
+        </member>
+        <member name="T:SAF.MM.Api.PointsController">
+            <summary>
+            会员积分管理
+            </summary>
+        </member>
+        <member name="T:SAF.MM.Api.PreDepositController">
+            <summary>
+            会员预存款
+            </summary>
+        </member>
+        <member name="T:SAF.MM.Api.TagsController">
+            <summary>
+            会员标签
+            </summary>
+        </member>
+    </members>
+</doc>
