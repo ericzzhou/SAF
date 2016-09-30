@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34CC1AD9-DF8B-40BE-8FB9-2F1A7E4373B6}</ProjectGuid>
+    <ProjectGuid>{2CB4FBEF-2917-4B34-92B3-56D66437FABE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SAF.Hub.Model</RootNamespace>
-    <AssemblyName>SAF.Hub.Model</AssemblyName>
+    <RootNamespace>SAF.Hub.Service</RootNamespace>
+    <AssemblyName>SAF.Hub.Service</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,14 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SAF_Menu.cs" />
-    <Compile Include="SAF_Permission.cs" />
-    <Compile Include="SAF_Role.cs" />
-    <Compile Include="SAF_RolePermission.cs" />
-    <Compile Include="SAF_Token.cs" />
-    <Compile Include="SAF_User.cs" />
-    <Compile Include="SAF_UserPermission.cs" />
-    <Compile Include="SAF_UserRole.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

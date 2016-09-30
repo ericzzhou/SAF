@@ -216,6 +216,10 @@
       <Project>{34cc1ad9-df8b-40be-8fb9-2f1a7e4373b6}</Project>
       <Name>SAF.Hub.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SAF.Hub.Service\SAF.Hub.Service.csproj">
+      <Project>{2cb4fbef-2917-4b34-92b3-56d66437fabe}</Project>
+      <Name>SAF.Hub.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
